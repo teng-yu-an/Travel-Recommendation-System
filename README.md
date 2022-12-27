@@ -14,5 +14,9 @@
 
 #### 前端——Tableau 儀表板呈現<br>
 
-- 從MongoDB 資料庫撈取資料，程式碼：``ConnectDB.ipynb``<br>，輸出為[data](https://github.com/teng-yu-an/Travel-Recommendation-System/tree/main/data)資料夾內的``Travel.xlsx``。<br>
+- 從MongoDB 資料庫撈取資料，程式碼：``ConnectDB.ipynb``，輸出為[data](https://github.com/teng-yu-an/Travel-Recommendation-System/tree/main/data)資料夾內的``Travel.xlsx``。<br>
 - Tableau 儀表板檔案為：``w2g_ver3.twb``，並連結[data](https://github.com/teng-yu-an/Travel-Recommendation-System/tree/main/data)資料夾內的``data_for_Tableau.csv``資料。
+
+
+####設計流程<br>
+<img decoding="async" src="https://github.com/teng-yu-an/Travel-Recommendation-System/blob/main/process.png">
